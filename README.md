@@ -132,10 +132,8 @@ The final model achieved good discrimination and calibration, with a
 <h2>📌 Notes</h2>
 
 <p>
-This project was developed for academic and portfolio purposes using a 
-synthetic dataset. It demonstrates how descriptive dashboards and inferential 
-models can be combined to support population health analysis and clinical 
-decision-support insights.
+This project uses a synthetic clinical dataset to demonstrate applied healthcare analytics,
+combining interactive dashboards with statistical modeling to generate interpretable insights relevant to population health and clinical decision support.
 </p>
 
 </body>
