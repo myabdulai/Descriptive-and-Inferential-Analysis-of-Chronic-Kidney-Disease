@@ -48,7 +48,7 @@ between groups using a button-based slicer, with all visuals updating in real ti
     <li>Average serum creatinine</li>
     <li>Average blood urea nitrogen (BUN)</li>
     <li>Average urinary output</li>
-    <li>7Total patients by diabetes status</li>
+    <li>Total patients by diabetes status</li>
     <li>Total patients by hypertension status</li>
 </ul>
 
