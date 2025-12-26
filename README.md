@@ -42,12 +42,14 @@ between groups using a button-based slicer, with all visuals updating in real ti
 <h3>Key Dashboard Metrics</h3>
 
 <ul>
-    <li>Total number of patients</li>
+    <li>Total of patients</li>
     <li>Average age</li>
     <li>Average glomerular filtration rate (GFR)</li>
     <li>Average serum creatinine</li>
     <li>Average blood urea nitrogen (BUN)</li>
     <li>Average urinary output</li>
+    <li>7Total patients by diabetes status</li>
+    <li>Total patients by hypertension status</li>
 </ul>
 
 <p>
