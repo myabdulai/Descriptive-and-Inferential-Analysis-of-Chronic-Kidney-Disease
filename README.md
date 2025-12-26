@@ -144,7 +144,3 @@ The dataset used in this project is a synthetic clinical dataset obtained from K
 https://www.kaggle.com/datasets/miadul/kidney-disease-risk-dataset
 </a>
 </p>
-
-<p>
-The dataset was used strictly for academic and portfolio purposes.
-</p>
