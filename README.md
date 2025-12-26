@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Descriptive and Inferential Analysis of Chronic Kidney Disease</title>
-</head>
-<body>
-
 <h1>Descriptive and Inferential Analysis of Chronic Kidney Disease</h1>
 
 <p>
