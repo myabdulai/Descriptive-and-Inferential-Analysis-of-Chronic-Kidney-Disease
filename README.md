@@ -149,7 +149,7 @@ The dataset used in this project is a synthetic clinical dataset obtained from K
 
 <p>
 <a href="https://www.kaggle.com/datasets/mansoordaku/ckdisease" target="_blank">
-https://www.kaggle.com/datasets/mansoordaku/ckdisease
+https://www.kaggle.com/datasets/miadul/kidney-disease-risk-dataset
 </a>
 </p>
 
