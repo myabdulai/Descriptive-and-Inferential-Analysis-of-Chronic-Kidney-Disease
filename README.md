@@ -140,3 +140,19 @@ decision-support insights.
 
 </body>
 </html>
+
+<h2>📂 Data Source</h2>
+
+<p>
+The dataset used in this project is a synthetic clinical dataset obtained from Kaggle:
+</p>
+
+<p>
+<a href="https://www.kaggle.com/datasets/mansoordaku/ckdisease" target="_blank">
+https://www.kaggle.com/datasets/mansoordaku/ckdisease
+</a>
+</p>
+
+<p>
+The dataset was used strictly for academic and portfolio purposes.
+</p>
